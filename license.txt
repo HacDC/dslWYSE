@@ -1,0 +1,3 @@
+ISO file, dsl-4.4.10.iso is "Damn Small Linux", available at http://www.damnsmalllinux.org/index.html . Licensing terms, source code, and similar information, for this and other derived works, may be found there.
+
+All original works by mirage335 in this repository not covered by that license, are public domain to the extent legally possible.
